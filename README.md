@@ -5,6 +5,10 @@
 In addition, I have previous experiences as an office manager and a lead dental assistant. These roles have taught me a strong foundation in organization, adaptability, time management, teamwork, and communication. 
 
 ⚡ Fun Facts: I like to go climb, hike, and enjoy the outdoor. However, I can be a homebody at times.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1vR8ICAYDvDS6mhumMDh8KU-1_xsEvQIBBqv1vZfnfZs/edit ' target=_blank><u>here</u>.</a></p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=nhayenquynh alt=nhayenquynh /> </p>
 
